@@ -1,5 +1,5 @@
 # top5musicplayerapp
-List O Top 5 Best Android Music Player App after Google Play Music discontinued
+List Of Top 5 Best Android Music Player App after Google Play Music discontinued
 Top 5 BEST Paid & Free Android Music Player In 2022 after Google discontinued it’s Google Play Music  [Android MP3 Players & Audio Players] 
 
 Are you searching for a music player for your Android device? Go through this review and comparison of the Best Android Music Players to end your search.
@@ -44,7 +44,7 @@ A separate app for children
 Cons:
 The lack of support for high-resolution audio files is a disadvantage.
 
-Ratings: 4.4 out of 5 stars4.4/5 stars | Downloads: 1 Billion+
+Ratings: 4.4 out of 5 stars| Downloads: 1 Billion+
 
 Final Verdict: Spotify is the most popular music player in the world, with over 1 billion downloads.
 
@@ -92,7 +92,7 @@ No ads
 Cons:
 Plays only those songs that are stored on your device.
 
-Ratings: 4.2 out of 5 stars | Downloads: 50 Million+
+Ratings: 4.8 out of 5 stars | Downloads: 80 Million+
 
 Final Verdict: Music Player - MP3 Player can be a great option for those who want to listen to songs offline, absolutely free. This app is such a beast. You don’t need to install any other app after installing it once. This music player comes with very smart and high-tech technology that consumes less RAM, does not interrupt you with ads and delivers high music listening and movie watching experience.
 
